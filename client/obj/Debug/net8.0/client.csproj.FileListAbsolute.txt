@@ -1,0 +1,28 @@
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.AssemblyInfoInputs.cache
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.AssemblyInfo.cs
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.csproj.CoreCompileInputs.cache
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\bin\Debug\net8.0\client.exe
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\bin\Debug\net8.0\client.deps.json
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\bin\Debug\net8.0\client.runtimeconfig.json
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\bin\Debug\net8.0\client.dll
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\bin\Debug\net8.0\client.pdb
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.dll
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\obj\Debug\net8.0\refint\client.dll
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.pdb
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.genruntimeconfig.cache
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent\AssignmentTemplateStudent\client\obj\Debug\net8.0\ref\client.dll
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\bin\Debug\net8.0\client.exe
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\bin\Debug\net8.0\client.deps.json
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\bin\Debug\net8.0\client.runtimeconfig.json
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\bin\Debug\net8.0\client.dll
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\bin\Debug\net8.0\client.pdb
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.AssemblyInfoInputs.cache
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.AssemblyInfo.cs
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.csproj.CoreCompileInputs.cache
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.dll
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\obj\Debug\net8.0\refint\client.dll
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.pdb
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\obj\Debug\net8.0\client.genruntimeconfig.cache
+C:\Users\jerre\OneDrive\Bureaublad\networking\AssignmentTemplateStudent - Copy\AssignmentTemplateStudent\client\obj\Debug\net8.0\ref\client.dll
